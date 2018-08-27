@@ -1,0 +1,91 @@
+
+
+body{
+
+	background:#A2D9CE  ;
+}
+ul{
+	list-style-type: : none;
+	margin: 0px;
+	padding: 0px;
+	border: 0px solid green;
+	background-color: #B0B7B6;
+	text-align: center;
+}
+li{
+	display:inline-block;
+	padding: 10px 20px;
+
+}
+
+ul>li>a{
+	text-decoration: none;
+
+}
+a{
+	color: black;
+	padding: 10px 20px;
+}
+a:hover{
+	background: gray;
+	 border-bottom:  #ABEBC6   5px solid;
+
+
+}
+.icon-home:before {
+  content: "\e900";
+}
+.icon-newspaper:before {
+  content: "\e904";
+}
+.icon-image:before {
+  content: "\e90d";
+}
+.icon-film:before {
+  content: "\e913";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-book:before {
+  content: "\e91f";
+}
+.inicio{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+}
+.noticias{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+
+}
+.galeria{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+
+}
+.publicacion{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+
+}
+.videos{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+
+}
+.contactenos{
+font-size:21px;
+color: #1A5276 ;
+padding: 5px 5px;
+
+}
+
+
+
+
